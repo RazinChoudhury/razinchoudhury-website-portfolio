@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/razinchoudhury-website-portfolio/static/css/main.177593f7.css",
+    "main.js": "/razinchoudhury-website-portfolio/static/js/main.c405e7ef.js",
+    "static/media/ProfilePicture.jpg": "/razinchoudhury-website-portfolio/static/media/ProfilePicture.9998916d707a3a31fdd4.jpg",
+    "static/media/python.png": "/razinchoudhury-website-portfolio/static/media/python.dea924d737bb84eb9ce3.png",
+    "static/media/portfolio.png": "/razinchoudhury-website-portfolio/static/media/portfolio.0af408e34a7adb71eca8.png",
+    "static/media/arduino.png": "/razinchoudhury-website-portfolio/static/media/arduino.f6b9737cdbc846497ecb.png",
+    "static/media/laliga.png": "/razinchoudhury-website-portfolio/static/media/laliga.b7c89c55f63af61d2946.png",
+    "static/media/Logo1.png": "/razinchoudhury-website-portfolio/static/media/Logo1.422ee14e975b1b41faf9.png",
+    "static/media/pandas.ico": "/razinchoudhury-website-portfolio/static/media/pandas.1e4afcce76cf5b709a81.ico",
+    "static/media/react.png": "/razinchoudhury-website-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/razinchoudhury-website-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/razinchoudhury-website-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/razinchoudhury-website-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/razinchoudhury-website-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/java.webp": "/razinchoudhury-website-portfolio/static/media/java.5f0bb00a3c3f9b70e2fe.webp",
+    "index.html": "/razinchoudhury-website-portfolio/index.html",
+    "main.177593f7.css.map": "/razinchoudhury-website-portfolio/static/css/main.177593f7.css.map",
+    "main.c405e7ef.js.map": "/razinchoudhury-website-portfolio/static/js/main.c405e7ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.177593f7.css",
+    "static/js/main.c405e7ef.js"
+  ]
+}
